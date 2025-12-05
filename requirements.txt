@@ -1,3 +1,16 @@
 jupyterlab
 pandas
 numpy
+bertopic
+sentence-transformers
+TensorFlow
+torch
+transformers
+praw
+requests
+tqdm
+python-dateutil
+tf-keras
+hdbscan
+nltk
+umap-learn
